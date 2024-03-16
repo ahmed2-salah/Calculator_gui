@@ -17,7 +17,7 @@ The Qt Calculator project is a simple yet powerful application developed using C
    ## Tools 🛠
    Qt6 FrameWork with c++.
 
-   ## Contact Info
+   ## Contact Info 🔗
    LinkedIn : https://www.linkedin.com/in/ahmed2-salah/
    
 
