@@ -15,7 +15,11 @@ The Qt Calculator project is a simple yet powerful application developed using C
    ![Screenshot (802)](https://github.com/ahmed2-salah/Calculator_gui/assets/90197922/a33daa53-404e-42d0-a45b-a5c654b36897)
 
    ## Tools 🛠
-   Qt6 FrameWork with c++
+   Qt6 FrameWork with c++.
+
+   ## Contact Info
+   LinkedIn : https://www.linkedin.com/in/ahmed2-salah/
+   
 
   
 
