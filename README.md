@@ -11,3 +11,5 @@ The Qt Calculator project is a simple yet powerful application developed using C
 
     ![Screenshot (803)](https://github.com/ahmed2-salah/Calculator_gui/assets/90197922/f6ca1a31-ee68-47d8-90f9-f1f19c0a1621)
 
+   2. Dark Mode  
+
